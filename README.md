@@ -1,20 +1,20 @@
 # Laboratorio de Cracking de Contraseñas (Hydra & John the Ripper)
 
 ## Objetivo
-[cite_start]El objetivo principal de este laboratorio fue realizar prácticas de auditoría de seguridad enfocadas en el descifrado de credenciales[cite: 2]. [cite_start]A través de este proyecto, se buscó comprender la vulnerabilidad de los sistemas ante ataques de fuerza bruta y de diccionario, diferenciando entre métodos de ataque en línea (online) y fuera de línea (offline) para evaluar la robustez de las políticas de seguridad[cite: 2].
+El objetivo principal de este laboratorio fue realizar prácticas de auditoría de seguridad enfocadas en el descifrado de credenciales. A través de este proyecto, se buscó comprender la vulnerabilidad de los sistemas ante ataques de fuerza bruta y de diccionario, diferenciando entre métodos de ataque en línea (online) y fuera de línea (offline) para evaluar la robustez de las políticas de seguridad.
 
 ## Habilidades Aprendidas
-- [cite_start]**Cracking de contraseñas offline:** Uso de herramientas para descifrar hashes de contraseñas de manera local[cite: 2].
-- [cite_start]**Cracking de contraseñas online:** Implementación de ataques directos contra servicios de red activos[cite: 2].
-- [cite_start]**Uso de ataques de fuerza bruta y diccionario:** Aplicación de metodologías para la recuperación de credenciales mediante listas de palabras[cite: 2].
-- [cite_start]**Gestión de listas de palabras (wordlists):** Uso de bases de datos de contraseñas comunes para auditorías de seguridad[cite: 2].
-- [cite_start]**Análisis de debilidades de autenticación:** Evaluación de la seguridad en protocolos de red y sistemas locales[cite: 2].
+- **Cracking de contraseñas offline:** Uso de herramientas para descifrar hashes de contraseñas de manera local.
+- **Cracking de contraseñas online:** Implementación de ataques directos contra servicios de red activos.
+- **Uso de ataques de fuerza bruta y diccionario:** Aplicación de metodologías para la recuperación de credenciales mediante listas de palabras.
+- **Gestión de listas de palabras (wordlists):** Uso de bases de datos de contraseñas comunes para auditorías de seguridad.
+- **Análisis de debilidades de autenticación:** Evaluación de la seguridad en protocolos de red y sistemas locales.
 
 ## Herramientas Utilizadas
-- [cite_start]**Cracking Offline:** John the Ripper [cite: 2]
-- [cite_start]**Cracking Online:** Hydra [cite: 2]
-- [cite_start]**Entorno de Trabajo:** Máquinas virtuales configuradas para el laboratorio [cite: 2]
-- [cite_start]**Metodología:** Cracking de contraseñas / Auditoría de credenciales [cite: 2]
+- **Cracking Offline:** John the Ripper. 
+- **Cracking Online:** Hydra. 
+- **Entorno de Trabajo:** Máquinas virtuales configuradas para el laboratorio. 
+- **Metodología:** Cracking de contraseñas / Auditoría de credenciales. 
 
 ## Documentación del Proyecto
 [![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/emmanueldjr/Metasploit/blob/main/hackearpasswd.pdf)
