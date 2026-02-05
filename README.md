@@ -17,7 +17,7 @@ El objetivo principal de este laboratorio fue realizar prácticas de auditoría 
 - **Metodología:** Cracking de contraseñas / Auditoría de credenciales. 
 
 ## Documentación del Proyecto
-[![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/emmanueldjr/Metasploit/blob/main/hackearpasswd.pdf)
+[![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/emmanueldjr/CrackingPassword/blob/main/labcrackingpassword.pdf)
 
 > [!NOTE]
-> Puedes visualizar el informe completo haciendo clic en el botón superior o accediendo directamente a través del siguiente enlace: [Reporte Técnico: Cracking de Contraseñas](https://github.com/emmanueldjr/Metasploit/blob/main/hackearpasswd.pdf)
+> Puedes visualizar el informe completo haciendo clic en el botón superior o accediendo directamente a través del siguiente enlace: [Reporte Técnico: Cracking de Contraseñas](https://github.com/emmanueldjr/CrackingPassword/blob/main/labcrackingpassword.pdf)
